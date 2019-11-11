@@ -1,2 +1,2 @@
-## Algebra Blog
+## Laravel Blog
 # By Angelo Milcevski
